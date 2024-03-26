@@ -1,0 +1,28 @@
+💡 Analysis in terms of BASIC questions:
+  a) WHO IS THE SENIOR MOST EMPLOYEE BASED ON JOB TITLE
+  b)WHICH COUNTRIES HAVE THE MOST INVOICES
+  c)WHAT ARE TOP 3 VALUES OF TOTAL INVOICE
+
+💡 Analysis in terms of INTERMEDIATE questions:
+  a) Which city has the best customers? 
+--We would like to throw a promotional Music Festival in the city we made the most money. 
+--Write a query that returns one city that has the highest sum of invoice totals. Return both the city name & sum of all invoice totals
+
+  b) Who is the best customer? 
+--The customer who has spent the most money will be declared the best customer. 
+--Write a query that returns the person who has spent the most money.
+
+  c) --Write a query to return the email, first name, last name and genre of all rock music listeners.
+--Return your list ordered alphabetically by email starting with A.
+
+  d) --Let's invite the artists who have written the most rock music in our dataset. 
+--Write a query that returns the artist name and total track count of the top 10 rock bands.
+
+💡 Analysis in terms of ADVANCED questions:
+
+  a) --Return all the track names that have a song length longer than the average song length.
+--Return the name and milliseconds for each track.
+--Order by the song length with the longest songs listed first.
+
+  b) Find how much amount spent by each customer on artists? 
+--Write a query to return customer name, artist name, and total spent.
